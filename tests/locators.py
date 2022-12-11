@@ -33,5 +33,5 @@ class TestLocators_buttons_login:
 class TestLocators_tabs:
     BREAD_TAB = By.XPATH, ".//*[contains(@class, 'tab_tab__1SPyG')][1]"# вкладка "булки"
     SAUCE_TAB = By.XPATH, ".//*[contains(@class, 'tab_tab__1SPyG')][2]" # вкладка "соусы"
-    FILLING_TAB = By.XPATH, ".//*[contains(@class, 'tab_tab__1SPyG')][3]" # вкладка "ночинки"
+    FILLING_TAB = By.XPATH, ".//*[contains(@class, 'tab_tab__1SPyG')][3]" # вкладка "начинки"
 
